@@ -9,43 +9,49 @@
 
 ### First website:
 
-    var code = []
-    var results = []
-    var json = {data:[]}
-    for (i=0;i<($$("td").length)/3;i++){
-        code.push($$("td:first-child")[i].innerText);
-        results.push($$("td:last-child")[i].innerHTML);
-        json.data.push({code: code[i], result: results[i]});
-    }
-    console.log(json);
+```javascript
+var code = []
+var results = []
+var json = {data:[]}
+for (i=0;i<($$("td").length)/3;i++){
+	code.push($$("td:first-child")[i].innerText);
+	results.push($$("td:last-child")[i].innerHTML);
+	json.data.push({code: code[i], result: results[i]});
+}
+console.log(json);
+```
 
 ### Second website:
 
-    var code = [];
-    var descrips = [];
-    var json = {data:[]};
-    for (i=0;i<(($$(".w3-table-all td").length)/2);i++){
-        code.push($$(".w3-table-all td:first-child")[i].innerText);
-        descrips.push($$(".w3-table-all td:last-child")[i].innerText);
-        json.data.push({code: code[i], description: descrips[i]});
-    }
-    console.log(json);
+```javascript
+var code = [];
+var descrips = [];
+var json = {data:[]};
+for (i=0;i<(($$(".w3-table-all td").length)/2);i++){
+	code.push($$(".w3-table-all td:first-child")[i].innerText);
+	descrips.push($$(".w3-table-all td:last-child")[i].innerText);
+	json.data.push({code: code[i], description: descrips[i]});
+}
+console.log(json);
+```
 
 ### Third website:
 
-    var code = [];
-    var descrips = [];
-    var json = {data:[]};
-    var x = 0;
-    for (i=0;i<$$(".w3-table-all td").length;i++){
-        code.push($$(".w3-table-all td")[i].innerText);
-        i ++;
-        descrips.push($$(".w3-table-all td")[i].innerText);
-        i ++;
-        json.data.push({code: code[x], description: descrips[x]});
-        x ++;
-    }
-    console.log(json);
+```javascript
+var code = [];
+var descrips = [];
+var json = {data:[]};
+var x = 0;
+for (i=0;i<$$(".w3-table-all td").length;i++){
+	code.push($$(".w3-table-all td")[i].innerText);
+	i ++;
+	descrips.push($$(".w3-table-all td")[i].innerText);
+	i ++;
+	json.data.push({code: code[x], description: descrips[x]});
+	x ++;
+}
+console.log(json);
+```
 
 ## Json from each website
 
