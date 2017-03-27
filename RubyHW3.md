@@ -9,7 +9,6 @@
 
 ### First website:
 
-`
 {
 	data:[
 		{
@@ -57,7 +56,7 @@
 			result: "↵                            Horizontal Rule↵                            <hr class="custom-hr">↵                        "
 		},
 		{
-			code: "\`Inline code\` with backticks",
+			code: "`Inline code` with backticks",
 			result: "↵                            <code class="preformatted">Inline code</code> with backticks↵                        "
 		},
 		{
@@ -65,4 +64,4 @@
 			result: "↵                            <div class="code-block">↵                                # code block↵                                <br> print '3 backticks or'↵                                <br> print 'indent 4 spaces'↵                            </div>↵                        "
 		}
 	]
-}`
+}
