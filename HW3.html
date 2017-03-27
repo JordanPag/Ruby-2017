@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+	</head>
+	<body>
+		<table id="md" border="1">
+			<tr>
+				<th>Code</th>
+				<th>Result</th>
+			</tr>
+		</table>
+		<table id="html" border="1">
+			<tr>
+				<th>Code</th>
+				<th>Description</th>
+			</tr>
+		</table>
+		<table id="css" border="1">
+			<tr>
+				<th>Code</th>
+				<th>Description</th>
+			</tr>
+		</table>
+		<script>
+			$(function() {
+				$.getJSON('firstwebsite.json', function(data) {
+					$.each(data.data, function(i, f) {
+						var tblRow = "<tr><td>" + f.code + "</td><td>" + f.result + "</td></tr>"
+						$("#md").append(tblRow);
+					});
+				});
+			});
+			$(function() {
+				$.getJSON('secondwebsite.json', function(data) {
+					$.each(data.data, function(i, f) {
+						var tblRow = "<tr><td>" + f.code + "</td><td>" + f.description + "</td></tr>"
+						$("#html").append(tblRow);
+					});
+				});
+			});
+			$(function() {
+				$.getJSON('thirdwebsite.json', function(data) {
+					$.each(data.data, function(i, f) {
+						var tblRow = "<tr><td>" + f.code + "</td><td>" + f.description + "</td></tr>"
+						$("#css").append(tblRow);
+					});
+				});
+			});
+		</script>
+	</body>
+</html>

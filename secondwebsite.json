@@ -1,492 +1,492 @@
 {
-	data: [
+	"data": [
 		{
-			code: "<!--...-->"
-			description: "Defines a comment"
+			"code": "<!--...-->"
+			"description": "Defines a comment"
 		},
 		{
-			code: "<!DOCTYPE> "
-			description: "Defines the document type"
+			"code": "<!DOCTYPE> "
+			"description": "Defines the document type"
 		},
 		{
-			code: "<a>"
-			description: "Defines a hyperlink"
+			"code": "<a>"
+			"description": "Defines a hyperlink"
 		},
 		{
-			code: "<abbr>"
-			description: "Defines an abbreviation or an acronym"
+			"code": "<abbr>"
+			"description": "Defines an abbreviation or an acronym"
 		},
 		{
-			code: "<acronym>"
-			description: "Not supported in HTML5. Use <abbr> instead.
+			"code": "<acronym>"
+			"description": "Not supported in HTML5. Use <abbr> instead.
 		Defines an acronym"
 		},
 		{
-			code: "<address>"
-			description: "Defines contact information for the author/owner of a document"
+			"code": "<address>"
+			"description": "Defines contact information for the author/owner of a document"
 		},
 		{
-			code: "<applet>"
-			description: "Not supported in HTML5. Use <embed> or <object> instead.
+			"code": "<applet>"
+			"description": "Not supported in HTML5. Use <embed> or <object> instead.
 		Defines an embedded applet"
 		},
 		{
-			code: "<area>"
-			description: "Defines an area inside an image-map"
+			"code": "<area>"
+			"description": "Defines an area inside an image-map"
 		},
 		{
-			code: "<article>"
-			description: "Defines an article"
+			"code": "<article>"
+			"description": "Defines an article"
 		},
 		{
-			code: "<aside>"
-			description: "Defines content aside from the page content"
+			"code": "<aside>"
+			"description": "Defines content aside from the page content"
 		},
 		{
-			code: "<audio>"
-			description: "Defines sound content"
+			"code": "<audio>"
+			"description": "Defines sound content"
 		},
 		{
-			code: "<b>"
-			description: "Defines bold text"
+			"code": "<b>"
+			"description": "Defines bold text"
 		},
 		{
-			code: "<base>"
-			description: "Specifies the base URL/target for all relative URLs in a document"
+			"code": "<base>"
+			"description": "Specifies the base URL/target for all relative URLs in a document"
 		},
 		{
-			code: "<basefont>"
-			description: "Not supported in HTML5. Use CSS instead.
+			"code": "<basefont>"
+			"description": "Not supported in HTML5. Use CSS instead.
 		Specifies a default color, size, and font for all text in a document"
 		},
 		{
-			code: "<bdi>"
-			description: "Isolates a part of text that might be formatted in a different direction from other text outside it"
+			"code": "<bdi>"
+			"description": "Isolates a part of text that might be formatted in a different direction from other text outside it"
 		},
 		{
-			code: "<bdo>"
-			description: "Overrides the current text direction"
+			"code": "<bdo>"
+			"description": "Overrides the current text direction"
 		},
 		{
-			code: "<big>"
-			description: "Not supported in HTML5. Use CSS instead.
+			"code": "<big>"
+			"description": "Not supported in HTML5. Use CSS instead.
 		Defines big text"
 		},
 		{
-			code: "<blockquote>"
-			description: "Defines a section that is quoted from another source"
+			"code": "<blockquote>"
+			"description": "Defines a section that is quoted from another source"
 		},
 		{
-			code: "<body>"
-			description: "Defines the document's body"
+			"code": "<body>"
+			"description": "Defines the document's body"
 		},
 		{
-			code: "<br>"
-			description: "Defines a single line break"
+			"code": "<br>"
+			"description": "Defines a single line break"
 		},
 		{
-			code: "<button>"
-			description: "Defines a clickable button"
+			"code": "<button>"
+			"description": "Defines a clickable button"
 		},
 		{
-			code: "<canvas>"
-			description: "Used to draw graphics, on the fly, via scripting (usually JavaScript)"
+			"code": "<canvas>"
+			"description": "Used to draw graphics, on the fly, via scripting (usually JavaScript)"
 		},
 		{
-			code: "<caption>"
-			description: "Defines a table caption"
+			"code": "<caption>"
+			"description": "Defines a table caption"
 		},
 		{
-			code: "<center>"
-			description: "Not supported in HTML5. Use CSS instead.
+			"code": "<center>"
+			"description": "Not supported in HTML5. Use CSS instead.
 		Defines centered text"
 		},
 		{
-			code: "<cite>"
-			description: "Defines the title of a work"
+			"code": "<cite>"
+			"description": "Defines the title of a work"
 		},
 		{
-			code: "<code>"
-			description: "Defines a piece of computer code"
+			"code": "<code>"
+			"description": "Defines a piece of computer code"
 		},
 		{
-			code: "<col>"
-			description: "Specifies column properties for each column within a <colgroup> element "
+			"code": "<col>"
+			"description": "Specifies column properties for each column within a <colgroup> element "
 		},
 		{
-			code: "<colgroup>"
-			description: "Specifies a group of one or more columns in a table for formatting"
+			"code": "<colgroup>"
+			"description": "Specifies a group of one or more columns in a table for formatting"
 		},
 		{
-			code: "<datalist>"
-			description: "Specifies a list of pre-defined options for input controls"
+			"code": "<datalist>"
+			"description": "Specifies a list of pre-defined options for input controls"
 		},
 		{
-			code: "<dd>"
-			description: "Defines a description/value of a term in a description list"
+			"code": "<dd>"
+			"description": "Defines a description/value of a term in a description list"
 		},
 		{
-			code: "<del>"
-			description: "Defines text that has been deleted from a document"
+			"code": "<del>"
+			"description": "Defines text that has been deleted from a document"
 		},
 		{
-			code: "<details>"
-			description: "Defines additional details that the user can view or hide"
+			"code": "<details>"
+			"description": "Defines additional details that the user can view or hide"
 		},
 		{
-			code: "<dfn>"
-			description: "Represents the defining instance of a term"
+			"code": "<dfn>"
+			"description": "Represents the defining instance of a term"
 		},
 		{
-			code: "<dialog>"
-			description: "Defines a dialog box or window"
+			"code": "<dialog>"
+			"description": "Defines a dialog box or window"
 		},
 		{
-			code: "<dir>"
-			description: "Not supported in HTML5. Use <ul> instead.
+			"code": "<dir>"
+			"description": "Not supported in HTML5. Use <ul> instead.
 		Defines a directory list"
 		},
 		{
-			code: "<div>"
-			description: "Defines a section in a document"
+			"code": "<div>"
+			"description": "Defines a section in a document"
 		},
 		{
-			code: "<dl>"
-			description: "Defines a description list"
+			"code": "<dl>"
+			"description": "Defines a description list"
 		},
 		{
-			code: "<dt>"
-			description: "Defines a term/name in a description list"
+			"code": "<dt>"
+			"description": "Defines a term/name in a description list"
 		},
 		{
-			code: "<em>"
-			description: "Defines emphasized text "
+			"code": "<em>"
+			"description": "Defines emphasized text "
 		},
 		{
-			code: "<embed>"
-			description: "Defines a container for an external (non-HTML) application"
+			"code": "<embed>"
+			"description": "Defines a container for an external (non-HTML) application"
 		},
 		{
-			code: "<fieldset>"
-			description: "Groups related elements in a form"
+			"code": "<fieldset>"
+			"description": "Groups related elements in a form"
 		},
 		{
-			code: "<figcaption>"
-			description: "Defines a caption for a <figure> element"
+			"code": "<figcaption>"
+			"description": "Defines a caption for a <figure> element"
 		},
 		{
-			code: "<figure>"
-			description: "Specifies self-contained content"
+			"code": "<figure>"
+			"description": "Specifies self-contained content"
 		},
 		{
-			code: "<font>"
-			description: "Not supported in HTML5. Use CSS instead.
+			"code": "<font>"
+			"description": "Not supported in HTML5. Use CSS instead.
 		Defines font, color, and size for text"
 		},
 		{
-			code: "<footer>"
-			description: "Defines a footer for a document or section"
+			"code": "<footer>"
+			"description": "Defines a footer for a document or section"
 		},
 		{
-			code: "<form>"
-			description: "Defines an HTML form for user input"
+			"code": "<form>"
+			"description": "Defines an HTML form for user input"
 		},
 		{
-			code: "<frame>"
-			description: "Not supported in HTML5.
+			"code": "<frame>"
+			"description": "Not supported in HTML5.
 		Defines a window (a frame) in a frameset"
 		},
 		{
-			code: "<frameset>"
-			description: "Not supported in HTML5.
+			"code": "<frameset>"
+			"description": "Not supported in HTML5.
 		Defines a set of frames"
 		},
 		{
-			code: "<h1> to <h6>"
-			description: "Defines HTML headings"
+			"code": "<h1> to <h6>"
+			"description": "Defines HTML headings"
 		},
 		{
-			code: "<head>"
-			description: "Defines information about the document"
+			"code": "<head>"
+			"description": "Defines information about the document"
 		},
 		{
-			code: "<header>"
-			description: "Defines a header for a document or section"
+			"code": "<header>"
+			"description": "Defines a header for a document or section"
 		},
 		{
-			code: "<hr>"
-			description: "Defines a thematic change in the content"
+			"code": "<hr>"
+			"description": "Defines a thematic change in the content"
 		},
 		{
-			code: "<html>"
-			description: "Defines the root of an HTML document"
+			"code": "<html>"
+			"description": "Defines the root of an HTML document"
 		},
 		{
-			code: "<i>"
-			description: "Defines a part of text in an alternate voice or mood"
+			"code": "<i>"
+			"description": "Defines a part of text in an alternate voice or mood"
 		},
 		{
-			code: "<iframe>"
-			description: "Defines an inline frame"
+			"code": "<iframe>"
+			"description": "Defines an inline frame"
 		},
 		{
-			code: "<img>"
-			description: "Defines an image"
+			"code": "<img>"
+			"description": "Defines an image"
 		},
 		{
-			code: "<input>"
-			description: "Defines an input control"
+			"code": "<input>"
+			"description": "Defines an input control"
 		},
 		{
-			code: "<ins>"
-			description: "Defines a text that has been inserted into a document"
+			"code": "<ins>"
+			"description": "Defines a text that has been inserted into a document"
 		},
 		{
-			code: "<kbd>"
-			description: "Defines keyboard input"
+			"code": "<kbd>"
+			"description": "Defines keyboard input"
 		},
 		{
-			code: "<keygen>"
-			description: "Defines a key-pair generator field (for forms)"
+			"code": "<keygen>"
+			"description": "Defines a key-pair generator field (for forms)"
 		},
 		{
-			code: "<label>"
-			description: "Defines a label for an <input> element"
+			"code": "<label>"
+			"description": "Defines a label for an <input> element"
 		},
 		{
-			code: "<legend>"
-			description: "Defines a caption for a <fieldset> element"
+			"code": "<legend>"
+			"description": "Defines a caption for a <fieldset> element"
 		},
 		{
-			code: "<li>"
-			description: "Defines a list item"
+			"code": "<li>"
+			"description": "Defines a list item"
 		},
 		{
-			code: "<link>"
-			description: "Defines the relationship between a document and an external resource (most used to link to style sheets)"
+			"code": "<link>"
+			"description": "Defines the relationship between a document and an external resource (most used to link to style sheets)"
 		},
 		{
-			code: "<main>"
-			description: "Specifies the main content of a document"
+			"code": "<main>"
+			"description": "Specifies the main content of a document"
 		},
 		{
-			code: "<map>"
-			description: "Defines a client-side image-map"
+			"code": "<map>"
+			"description": "Defines a client-side image-map"
 		},
 		{
-			code: "<mark>"
-			description: "Defines marked/highlighted text"
+			"code": "<mark>"
+			"description": "Defines marked/highlighted text"
 		},
 		{
-			code: "<menu>"
-			description: "Defines a list/menu of commands"
+			"code": "<menu>"
+			"description": "Defines a list/menu of commands"
 		},
 		{
-			code: "<menuitem>"
-			description: "Defines a command/menu item that the user can invoke from a popup menu"
+			"code": "<menuitem>"
+			"description": "Defines a command/menu item that the user can invoke from a popup menu"
 		},
 		{
-			code: "<meta>"
-			description: "Defines metadata about an HTML document"
+			"code": "<meta>"
+			"description": "Defines metadata about an HTML document"
 		},
 		{
-			code: "<meter>"
-			description: "Defines a scalar measurement within a known range (a gauge)"
+			"code": "<meter>"
+			"description": "Defines a scalar measurement within a known range (a gauge)"
 		},
 		{
-			code: "<nav>"
-			description: "Defines navigation links"
+			"code": "<nav>"
+			"description": "Defines navigation links"
 		},
 		{
-			code: "<noframes>"
-			description: "Not supported in HTML5.
+			"code": "<noframes>"
+			"description": "Not supported in HTML5.
 		Defines an alternate content for users that do not support frames"
 		},
 		{
-			code: "<noscript>"
-			description: "Defines an alternate content for users that do not support client-side scripts"
+			"code": "<noscript>"
+			"description": "Defines an alternate content for users that do not support client-side scripts"
 		},
 		{
-			code: "<object>"
-			description: "Defines an embedded object"
+			"code": "<object>"
+			"description": "Defines an embedded object"
 		},
 		{
-			code: "<ol>"
-			description: "Defines an ordered list"
+			"code": "<ol>"
+			"description": "Defines an ordered list"
 		},
 		{
-			code: "<optgroup>"
-			description: "Defines a group of related options in a drop-down list"
+			"code": "<optgroup>"
+			"description": "Defines a group of related options in a drop-down list"
 		},
 		{
-			code: "<option>"
-			description: "Defines an option in a drop-down list"
+			"code": "<option>"
+			"description": "Defines an option in a drop-down list"
 		},
 		{
-			code: "<output>"
-			description: "Defines the result of a calculation"
+			"code": "<output>"
+			"description": "Defines the result of a calculation"
 		},
 		{
-			code: "<p>"
-			description: "Defines a paragraph"
+			"code": "<p>"
+			"description": "Defines a paragraph"
 		},
 		{
-			code: "<param>"
-			description: "Defines a parameter for an object"
+			"code": "<param>"
+			"description": "Defines a parameter for an object"
 		},
 		{
-			code: "<picture>"
-			description: "Defines a container for multiple image resources"
+			"code": "<picture>"
+			"description": "Defines a container for multiple image resources"
 		},
 		{
-			code: "<pre>"
-			description: "Defines preformatted text"
+			"code": "<pre>"
+			"description": "Defines preformatted text"
 		},
 		{
-			code: "<progress>"
-			description: "Represents the progress of a task"
+			"code": "<progress>"
+			"description": "Represents the progress of a task"
 		},
 		{
-			code: "<q>"
-			description: "Defines a short quotation"
+			"code": "<q>"
+			"description": "Defines a short quotation"
 		},
 		{
-			code: "<rp>"
-			description: "Defines what to show in browsers that do not support ruby annotations"
+			"code": "<rp>"
+			"description": "Defines what to show in browsers that do not support ruby annotations"
 		},
 		{
-			code: "<rt>"
-			description: "Defines an explanation/pronunciation of characters (for East Asian typography)"
+			"code": "<rt>"
+			"description": "Defines an explanation/pronunciation of characters (for East Asian typography)"
 		},
 		{
-			code: "<ruby>"
-			description: "Defines a ruby annotation (for East Asian typography)"
+			"code": "<ruby>"
+			"description": "Defines a ruby annotation (for East Asian typography)"
 		},
 		{
-			code: "<s>"
-			description: "Defines text that is no longer correct"
+			"code": "<s>"
+			"description": "Defines text that is no longer correct"
 		},
 		{
-			code: "<samp>"
-			description: "Defines sample output from a computer program"
+			"code": "<samp>"
+			"description": "Defines sample output from a computer program"
 		},
 		{
-			code: "<script>"
-			description: "Defines a client-side script"
+			"code": "<script>"
+			"description": "Defines a client-side script"
 		},
 		{
-			code: "<section>"
-			description: "Defines a section in a document"
+			"code": "<section>"
+			"description": "Defines a section in a document"
 		},
 		{
-			code: "<select>"
-			description: "Defines a drop-down list"
+			"code": "<select>"
+			"description": "Defines a drop-down list"
 		},
 		{
-			code: "<small>"
-			description: "Defines smaller text"
+			"code": "<small>"
+			"description": "Defines smaller text"
 		},
 		{
-			code: "<source>"
-			description: "Defines multiple media resources for media elements (<video> and <audio>)"
+			"code": "<source>"
+			"description": "Defines multiple media resources for media elements (<video> and <audio>)"
 		},
 		{
-			code: "<span>"
-			description: "Defines a section in a document"
+			"code": "<span>"
+			"description": "Defines a section in a document"
 		},
 		{
-			code: "<strike>"
-			description: "Not supported in HTML5. Use <del> or <s> instead.
+			"code": "<strike>"
+			"description": "Not supported in HTML5. Use <del> or <s> instead.
 		Defines strikethrough text"
 		},
 		{
-			code: "<strong>"
-			description: "Defines important text"
+			"code": "<strong>"
+			"description": "Defines important text"
 		},
 		{
-			code: "<style>"
-			description: "Defines style information for a document"
+			"code": "<style>"
+			"description": "Defines style information for a document"
 		},
 		{
-			code: "<sub>"
-			description: "Defines subscripted text"
+			"code": "<sub>"
+			"description": "Defines subscripted text"
 		},
 		{
-			code: "<summary>"
-			description: "Defines a visible heading for a <details> element"
+			"code": "<summary>"
+			"description": "Defines a visible heading for a <details> element"
 		},
 		{
-			code: "<sup>"
-			description: "Defines superscripted text"
+			"code": "<sup>"
+			"description": "Defines superscripted text"
 		},
 		{
-			code: "<table>"
-			description: "Defines a table"
+			"code": "<table>"
+			"description": "Defines a table"
 		},
 		{
-			code: "<tbody>"
-			description: "Groups the body content in a table"
+			"code": "<tbody>"
+			"description": "Groups the body content in a table"
 		},
 		{
-			code: "<td>"
-			description: "Defines a cell in a table"
+			"code": "<td>"
+			"description": "Defines a cell in a table"
 		},
 		{
-			code: "<textarea>"
-			description: "Defines a multiline input control (text area)"
+			"code": "<textarea>"
+			"description": "Defines a multiline input control (text area)"
 		},
 		{
-			code: "<tfoot>"
-			description: "Groups the footer content in a table"
+			"code": "<tfoot>"
+			"description": "Groups the footer content in a table"
 		},
 		{
-			code: "<th>"
-			description: "Defines a header cell in a table"
+			"code": "<th>"
+			"description": "Defines a header cell in a table"
 		},
 		{
-			code: "<thead>"
-			description: "Groups the header content in a table"
+			"code": "<thead>"
+			"description": "Groups the header content in a table"
 		},
 		{
-			code: "<time>"
-			description: "Defines a date/time"
+			"code": "<time>"
+			"description": "Defines a date/time"
 		},
 		{
-			code: "<title>"
-			description: "Defines a title for the document"
+			"code": "<title>"
+			"description": "Defines a title for the document"
 		},
 		{
-			code: "<tr>"
-			description: "Defines a row in a table"
+			"code": "<tr>"
+			"description": "Defines a row in a table"
 		},
 		{
-			code: "<track>"
-			description: "Defines text tracks for media elements (<video> and <audio>)"
+			"code": "<track>"
+			"description": "Defines text tracks for media elements (<video> and <audio>)"
 		},
 		{
-			code: "<tt>"
-			description: "Not supported in HTML5. Use CSS instead.
+			"code": "<tt>"
+			"description": "Not supported in HTML5. Use CSS instead.
 		Defines teletype text"
 		},
 		{
-			code: "<u>"
-			description: "Defines text that should be stylistically different from normal text"
+			"code": "<u>"
+			"description": "Defines text that should be stylistically different from normal text"
 		},
 		{
-			code: "<ul>"
-			description: "Defines an unordered list"
+			"code": "<ul>"
+			"description": "Defines an unordered list"
 		},
 		{
-			code: "<var>"
-			description: "Defines a variable"
+			"code": "<var>"
+			"description": "Defines a variable"
 		},
 		{
-			code: "<video>"
-			description: "Defines a video or movie"
+			"code": "<video>"
+			"description": "Defines a video or movie"
 		},
 		{
-			code: "<wbr>"
-			description: "Defines a possible line-break"
+			"code": "<wbr>"
+			"description": "Defines a possible line-break"
 		}
 	]
 }
