@@ -64,4 +64,8 @@
 			result: "↵                            <div class="code-block">↵                                # code block↵                                <br> print '3 backticks or'↵                                <br> print 'indent 4 spaces'↵                            </div>↵                        "
 		}
 	]
+<<<<<<< HEAD
 }
+=======
+}`
+>>>>>>> origin/master
