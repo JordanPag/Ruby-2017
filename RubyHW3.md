@@ -57,7 +57,7 @@
 			result: "↵                            Horizontal Rule↵                            <hr class="custom-hr">↵                        "
 		},
 		{
-			code: "\`Inline code\` with backticks",
+			code: "`Inline code` with backticks",
 			result: "↵                            <code class="preformatted">Inline code</code> with backticks↵                        "
 		},
 		{
