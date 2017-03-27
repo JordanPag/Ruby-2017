@@ -56,3 +56,7 @@
 ### Second website:
 
 [JSON](https://github.com/JordanPag/Ruby-2017/blob/master/secondwebsite.json)
+
+### Third website:
+
+[JSON](https://github.com/JordanPag/Ruby-2017/blob/master/thirdwebsite.json)
