@@ -13,9 +13,9 @@
     var results = []
     var json = {data:[]}
     for (i=0;i<($$("td").length)/3;i++){
-    	code.push($$("td:first-child")[i].innerText);
-    	results.push($$("td:last-child")[i].innerHTML);
-    	json.data.push({code: code[i], result: results[i]});
+        code.push($$("td:first-child")[i].innerText);
+        results.push($$("td:last-child")[i].innerHTML);
+        json.data.push({code: code[i], result: results[i]});
     }
     console.log(json);
 
@@ -25,9 +25,9 @@
     var descrips = [];
     var json = {data:[]};
     for (i=0;i<(($$(".w3-table-all td").length)/2);i++){
-    	code.push($$(".w3-table-all td:first-child")[i].innerText);
-    	descrips.push($$(".w3-table-all td:last-child")[i].innerText);
-    	json.data.push({code: code[i], description: descrips[i]});
+        code.push($$(".w3-table-all td:first-child")[i].innerText);
+        descrips.push($$(".w3-table-all td:last-child")[i].innerText);
+        json.data.push({code: code[i], description: descrips[i]});
     }
     console.log(json);
 
@@ -43,7 +43,7 @@
         descrips.push($$(".w3-table-all td")[i].innerText);
         i ++;
         json.data.push({code: code[x], description: descrips[x]});
-    	x ++;
+        x ++;
     }
     console.log(json);
 
