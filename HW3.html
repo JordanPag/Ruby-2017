@@ -22,29 +22,41 @@
 			</tr>
 		</table>
 		<script>
-			$(function() {
-				$.getJSON('firstwebsite.json', function(data) {
-					$.each(data.data, function(i, f) {
-						var tblRow = "<tr><td>" + f.code + "</td><td>" + f.result + "</td></tr>"
-						$("#md").append(tblRow);
+			$.getJSON('firstwebsite.json', function(data) {
+				for(var i=0; i<data.data.length;i++){
+					$.each(data.data[i], function(key, value) {
+						if(key=="code"){
+							var tblRow = "<tr><td>" + value + "</td><td>";
+						} else {
+							tblRow += value + "</td></tr>";
+							$("#md").append(tblRow);
+						}
 					});
-				});
+				}
 			});
-			$(function() {
-				$.getJSON('secondwebsite.json', function(data) {
-					$.each(data.data, function(i, f) {
-						var tblRow = "<tr><td>" + f.code + "</td><td>" + f.description + "</td></tr>"
-						$("#html").append(tblRow);
+			$.getJSON('secondwebsite.json', function(data) {
+				for(var i=0; i<data.data.length;i++){
+					$.each(data.data[i], function(key, value) {
+						if(key=="code"){
+							var tblRow = "<tr><td>" + value + "</td><td>";
+						} else {
+							tblRow += value + "</td></tr>";
+							$("#html").append(tblRow);
+						}
 					});
-				});
+				}
 			});
-			$(function() {
-				$.getJSON('thirdwebsite.json', function(data) {
-					$.each(data.data, function(i, f) {
-						var tblRow = "<tr><td>" + f.code + "</td><td>" + f.description + "</td></tr>"
-						$("#css").append(tblRow);
+			$.getJSON('thirdwebsite.json', function(data) {
+				for(var i=0; i<data.data.length;i++){
+					$.each(data.data[i], function(key, value) {
+						if(key=="code"){
+							var tblRow = "<tr><td>" + value + "</td><td>";
+						} else {
+							tblRow += value + "</td></tr>";
+							$("#css").append(tblRow);
+						}
 					});
-				});
+				}
 			});
 		</script>
 	</body>
