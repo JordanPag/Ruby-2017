@@ -18,8 +18,7 @@
 		},
 		{
 			"code": "<acronym>",
-			"description": "Not supported in HTML5. Use <abbr> instead.
-		Defines an acronym"
+			"description": "Defines an acronym"
 		},
 		{
 			"code": "<address>",
@@ -27,8 +26,7 @@
 		},
 		{
 			"code": "<applet>",
-			"description": "Not supported in HTML5. Use <embed> or <object> instead.
-		Defines an embedded applet"
+			"description": "Defines an embedded applet"
 		},
 		{
 			"code": "<area>",
@@ -56,8 +54,7 @@
 		},
 		{
 			"code": "<basefont>",
-			"description": "Not supported in HTML5. Use CSS instead.
-		Specifies a default color, size, and font for all text in a document"
+			"description": "Specifies a default color, size, and font for all text in a document"
 		},
 		{
 			"code": "<bdi>",
@@ -69,8 +66,7 @@
 		},
 		{
 			"code": "<big>",
-			"description": "Not supported in HTML5. Use CSS instead.
-		Defines big text"
+			"description": "Defines big text"
 		},
 		{
 			"code": "<blockquote>",
@@ -98,8 +94,7 @@
 		},
 		{
 			"code": "<center>",
-			"description": "Not supported in HTML5. Use CSS instead.
-		Defines centered text"
+			"description": "Defines centered text"
 		},
 		{
 			"code": "<cite>",
@@ -143,8 +138,7 @@
 		},
 		{
 			"code": "<dir>",
-			"description": "Not supported in HTML5. Use <ul> instead.
-		Defines a directory list"
+			"description": "Defines a directory list"
 		},
 		{
 			"code": "<div>",
@@ -180,8 +174,7 @@
 		},
 		{
 			"code": "<font>",
-			"description": "Not supported in HTML5. Use CSS instead.
-		Defines font, color, and size for text"
+			"description": "Defines font, color, and size for text"
 		},
 		{
 			"code": "<footer>",
@@ -193,13 +186,11 @@
 		},
 		{
 			"code": "<frame>",
-			"description": "Not supported in HTML5.
-		Defines a window (a frame) in a frameset"
+			"description": "Defines a window (a frame) in a frameset"
 		},
 		{
 			"code": "<frameset>",
-			"description": "Not supported in HTML5.
-		Defines a set of frames"
+			"description": "Defines a set of frames"
 		},
 		{
 			"code": "<h1> to <h6>",
@@ -299,8 +290,7 @@
 		},
 		{
 			"code": "<noframes>",
-			"description": "Not supported in HTML5.
-		Defines an alternate content for users that do not support frames"
+			"description": "Defines an alternate content for users that do not support frames"
 		},
 		{
 			"code": "<noscript>",
@@ -396,8 +386,7 @@
 		},
 		{
 			"code": "<strike>",
-			"description": "Not supported in HTML5. Use <del> or <s> instead.
-		Defines strikethrough text"
+			"description": "Defines strikethrough text"
 		},
 		{
 			"code": "<strong>",
@@ -465,8 +454,7 @@
 		},
 		{
 			"code": "<tt>",
-			"description": "Not supported in HTML5. Use CSS instead.
-		Defines teletype text"
+			"description": "Defines teletype text"
 		},
 		{
 			"code": "<u>",
