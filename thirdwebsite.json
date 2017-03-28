@@ -245,8 +245,7 @@
 			"description": "Sets the minimum width of an element"
 		},
 		{
-			"code": "overflow
-		",
+			"code": "overflow",
 			"description": "Specifies what happens if content overflows an element's box"
 		},
 		{
