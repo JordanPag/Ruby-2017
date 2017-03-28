@@ -22,7 +22,7 @@
 		},
 		{
 			"code": "![Image](http://url/a.png)",
-			"result": "↵                            <img src=\"images/favicon.png\" width=\"36\" height="36" alt=\"Markdown\">↵                        "
+			"result": "↵                            <img src=\"images/favicon.png\" width=\"36\" height=\"36\" alt=\"Markdown\">↵                        "
 		},
 		{
 			"code": "> Blockquote",
