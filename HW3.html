@@ -26,10 +26,10 @@
 				for(var i=0; i<data.data.length;i++){
 					$.each(data.data[i], function(key, val) {
 						if(key=="code"){
-							console.log(val)
-							var tblRow = "<tr><td>" + val + "</td><td>";
+							console.log(val);
+							var tblRow = "<tr><td>" + val.toString() + "</td><td>";
 						} else {
-							console.log(val)
+							console.log(val);
 							tblRow += val + "</td></tr>";
 							$("#md").append(tblRow);
 						}
@@ -40,8 +40,10 @@
 				for(var i=0; i<data.data.length;i++){
 					$.each(data.data[i], function(key, val) {
 						if(key=="code"){
-							var tblRow = "<tr><td>" + val + "</td><td>";
+							console.log(val);
+							var tblRow = "<tr><td>" + val.toString() + "</td><td>";
 						} else {
+							console.log(val);
 							tblRow += val + "</td></tr>";
 							$("#html").append(tblRow);
 						}
@@ -52,8 +54,10 @@
 				for(var i=0; i<data.data.length;i++){
 					$.each(data.data[i], function(key, val) {
 						if(key=="code"){
-							var tblRow = "<tr><td>" + val + "</td><td>";
+							console.log(val);
+							var tblRow = "<tr><td>" + val.toString() + "</td><td>";
 						} else {
+							console.log(val);
 							tblRow += val + "</td></tr>";
 							$("#css").append(tblRow);
 						}
