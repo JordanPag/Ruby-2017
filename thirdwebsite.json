@@ -1,928 +1,928 @@
 {
 	"data": [
 		{
-			"code": "color"
+			"code": "color",
 			"description": "Sets the color of text"
 		},
 		{
-			"code": "opacity"
+			"code": "opacity",
 			"description": "Sets the opacity level for an element"
 		},
 		{
-			"code": "background"
+			"code": "background",
 			"description": "A shorthand property for setting all the background properties in one declaration"
 		},
 		{
-			"code": "background-attachment"
+			"code": "background-attachment",
 			"description": "Sets whether a background image is fixed or scrolls with the rest of the page"
 		},
 		{
-			"code": "background-blend-mode"
+			"code": "background-blend-mode",
 			"description": "Specifies the blending mode of each background layer (color/image)"
 		},
 		{
-			"code": "background-color"
+			"code": "background-color",
 			"description": "Specifies the background color of an element"
 		},
 		{
-			"code": "background-image"
+			"code": "background-image",
 			"description": "Specifies one or more background images for an element"
 		},
 		{
-			"code": "background-position"
+			"code": "background-position",
 			"description": "Specifies the position of a background image"
 		},
 		{
-			"code": "background-repeat"
+			"code": "background-repeat",
 			"description": "Sets how a background image will be repeated"
 		},
 		{
-			"code": "background-clip"
+			"code": "background-clip",
 			"description": "Specifies the painting area of the background"
 		},
 		{
-			"code": "background-origin"
+			"code": "background-origin",
 			"description": "Specifies where the background image(s) is/are positioned"
 		},
 		{
-			"code": "background-size"
+			"code": "background-size",
 			"description": "Specifies the size of the background image(s)"
 		},
 		{
-			"code": "border"
+			"code": "border",
 			"description": "Sets all the border properties in one declaration"
 		},
 		{
-			"code": "border-bottom"
+			"code": "border-bottom",
 			"description": "Sets all the bottom border properties in one declaration"
 		},
 		{
-			"code": "border-bottom-color"
+			"code": "border-bottom-color",
 			"description": "Sets the color of the bottom border"
 		},
 		{
-			"code": "border-bottom-left-radius"
+			"code": "border-bottom-left-radius",
 			"description": "Defines the shape of the border of the bottom-left corner"
 		},
 		{
-			"code": "border-bottom-right-radius"
+			"code": "border-bottom-right-radius",
 			"description": "Defines the shape of the border of the bottom-right corner"
 		},
 		{
-			"code": "border-bottom-style"
+			"code": "border-bottom-style",
 			"description": "Sets the style of the bottom border"
 		},
 		{
-			"code": "border-bottom-width"
+			"code": "border-bottom-width",
 			"description": "Sets the width of the bottom border"
 		},
 		{
-			"code": "border-color"
+			"code": "border-color",
 			"description": "Sets the color of the four borders"
 		},
 		{
-			"code": "border-image"
+			"code": "border-image",
 			"description": "A shorthand property for setting all the border-image-* properties"
 		},
 		{
-			"code": "border-image-outset"
+			"code": "border-image-outset",
 			"description": "Specifies the amount by which the border image area extends beyond the border box"
 		},
 		{
-			"code": "border-image-repeat"
+			"code": "border-image-repeat",
 			"description": "Specifies whether the border image should be repeated, rounded or stretched"
 		},
 		{
-			"code": "border-image-slice"
+			"code": "border-image-slice",
 			"description": "Specifies how to slice the border image"
 		},
 		{
-			"code": "border-image-source"
+			"code": "border-image-source",
 			"description": "Specifies the path to the image to be used as a border"
 		},
 		{
-			"code": "border-image-width"
+			"code": "border-image-width",
 			"description": "Specifies the widths of the image-border"
 		},
 		{
-			"code": "border-left"
+			"code": "border-left",
 			"description": "Sets all the left border properties in one declaration"
 		},
 		{
-			"code": "border-left-color"
+			"code": "border-left-color",
 			"description": "Sets the color of the left border"
 		},
 		{
-			"code": "border-left-style"
+			"code": "border-left-style",
 			"description": "Sets the style of the left border"
 		},
 		{
-			"code": "border-left-width"
+			"code": "border-left-width",
 			"description": "Sets the width of the left border"
 		},
 		{
-			"code": "border-radius"
+			"code": "border-radius",
 			"description": "A shorthand property for setting all the four border-*-radius properties"
 		},
 		{
-			"code": "border-right"
+			"code": "border-right",
 			"description": "Sets all the right border properties in one declaration"
 		},
 		{
-			"code": "border-right-color"
+			"code": "border-right-color",
 			"description": "Sets the color of the right border"
 		},
 		{
-			"code": "border-right-style"
+			"code": "border-right-style",
 			"description": "Sets the style of the right border"
 		},
 		{
-			"code": "border-right-width"
+			"code": "border-right-width",
 			"description": "Sets the width of the right border"
 		},
 		{
-			"code": "border-style"
+			"code": "border-style",
 			"description": "Sets the style of the four borders"
 		},
 		{
-			"code": "border-top"
+			"code": "border-top",
 			"description": "Sets all the top border properties in one declaration"
 		},
 		{
-			"code": "border-top-color"
+			"code": "border-top-color",
 			"description": "Sets the color of the top border"
 		},
 		{
-			"code": "border-top-left-radius"
+			"code": "border-top-left-radius",
 			"description": "Defines the shape of the border of the top-left corner"
 		},
 		{
-			"code": "border-top-right-radius"
+			"code": "border-top-right-radius",
 			"description": "Defines the shape of the border of the top-right corner"
 		},
 		{
-			"code": "border-top-style"
+			"code": "border-top-style",
 			"description": "Sets the style of the top border"
 		},
 		{
-			"code": "border-top-width"
+			"code": "border-top-width",
 			"description": "Sets the width of the top border"
 		},
 		{
-			"code": "border-width"
+			"code": "border-width",
 			"description": "Sets the width of the four borders"
 		},
 		{
-			"code": "box-decoration-break"
+			"code": "box-decoration-break",
 			"description": "Sets the behaviour of the background and border of an element at page-break, or, for in-line elements, at line-break."
 		},
 		{
-			"code": "box-shadow"
+			"code": "box-shadow",
 			"description": "Attaches one or more drop-shadows to the box"
 		},
 		{
-			"code": "bottom"
+			"code": "bottom",
 			"description": "Specifies the bottom position of a positioned element"
 		},
 		{
-			"code": "clear"
+			"code": "clear",
 			"description": "Specifies which sides of an element where other floating elements are not allowed"
 		},
 		{
-			"code": "clip"
+			"code": "clip",
 			"description": "Clips an absolutely positioned element"
 		},
 		{
-			"code": "display"
+			"code": "display",
 			"description": "Specifies how a certain HTML element should be displayed"
 		},
 		{
-			"code": "float"
+			"code": "float",
 			"description": "Specifies whether or not a box should float"
 		},
 		{
-			"code": "height"
+			"code": "height",
 			"description": "Sets the height of an element"
 		},
 		{
-			"code": "left"
+			"code": "left",
 			"description": "Specifies the left position of a positioned element"
 		},
 		{
-			"code": "margin"
+			"code": "margin",
 			"description": "Sets all the margin properties in one declaration"
 		},
 		{
-			"code": "margin-bottom"
+			"code": "margin-bottom",
 			"description": "Sets the bottom margin of an element"
 		},
 		{
-			"code": "margin-left"
+			"code": "margin-left",
 			"description": "Sets the left margin of an element"
 		},
 		{
-			"code": "margin-right"
+			"code": "margin-right",
 			"description": "Sets the right margin of an element"
 		},
 		{
-			"code": "margin-top"
+			"code": "margin-top",
 			"description": "Sets the top margin of an element"
 		},
 		{
-			"code": "max-height"
+			"code": "max-height",
 			"description": "Sets the maximum height of an element"
 		},
 		{
-			"code": "max-width"
+			"code": "max-width",
 			"description": "Sets the maximum width of an element"
 		},
 		{
-			"code": "min-height"
+			"code": "min-height",
 			"description": "Sets the minimum height of an element"
 		},
 		{
-			"code": "min-width"
+			"code": "min-width",
 			"description": "Sets the minimum width of an element"
 		},
 		{
 			"code": "overflow
-		"
+		",
 			"description": "Specifies what happens if content overflows an element's box"
 		},
 		{
-			"code": "overflow-x"
+			"code": "overflow-x",
 			"description": "Specifies whether or not to clip the left/right edges of the content, if it overflows the element's content area"
 		},
 		{
-			"code": "overflow-y"
+			"code": "overflow-y",
 			"description": "Specifies whether or not to clip the top/bottom edges of the content, if it overflows the element's content area"
 		},
 		{
-			"code": "padding"
+			"code": "padding",
 			"description": "Sets all the padding properties in one declaration"
 		},
 		{
-			"code": "padding-bottom"
+			"code": "padding-bottom",
 			"description": "Sets the bottom padding of an element"
 		},
 		{
-			"code": "padding-left"
+			"code": "padding-left",
 			"description": "Sets the left padding of an element"
 		},
 		{
-			"code": "padding-right"
+			"code": "padding-right",
 			"description": "Sets the right padding of an element"
 		},
 		{
-			"code": "padding-top"
+			"code": "padding-top",
 			"description": "Sets the top padding of an element"
 		},
 		{
-			"code": "position"
+			"code": "position",
 			"description": "Specifies the type of positioning method used for an element (static, relative, absolute or fixed)"
 		},
 		{
-			"code": "right"
+			"code": "right",
 			"description": "Specifies the right position of a positioned element"
 		},
 		{
-			"code": "top"
+			"code": "top",
 			"description": "Specifies the top position of a positioned element"
 		},
 		{
-			"code": "visibility"
+			"code": "visibility",
 			"description": "Specifies whether or not an element is visible"
 		},
 		{
-			"code": "width"
+			"code": "width",
 			"description": "Sets the width of an element"
 		},
 		{
-			"code": "vertical-align"
+			"code": "vertical-align",
 			"description": "Sets the vertical alignment of an element"
 		},
 		{
-			"code": "z-index"
+			"code": "z-index",
 			"description": "Sets the stack order of a positioned element"
 		},
 		{
-			"code": "align-content"
+			"code": "align-content",
 			"description": "Specifies the alignment between the lines inside a flexible container when the items do not use all available space"
 		},
 		{
-			"code": "align-items"
+			"code": "align-items",
 			"description": "Specifies the alignment for items inside a flexible container"
 		},
 		{
-			"code": "align-self"
+			"code": "align-self",
 			"description": "Specifies the alignment for selected items inside a flexible container"
 		},
 		{
-			"code": "flex"
+			"code": "flex",
 			"description": "Specifies the length of the item, relative to the rest"
 		},
 		{
-			"code": "flex-basis"
+			"code": "flex-basis",
 			"description": "Specifies the initial length of a flexible item"
 		},
 		{
-			"code": "flex-direction"
+			"code": "flex-direction",
 			"description": "Specifies the direction of the flexible items"
 		},
 		{
-			"code": "flex-flow"
+			"code": "flex-flow",
 			"description": "A shorthand property for the flex-direction and the flex-wrap properties"
 		},
 		{
-			"code": "flex-grow"
+			"code": "flex-grow",
 			"description": "Specifies how much the item will grow relative to the rest"
 		},
 		{
-			"code": "flex-shrink"
+			"code": "flex-shrink",
 			"description": "Specifies how the item will shrink relative to the rest"
 		},
 		{
-			"code": "flex-wrap"
+			"code": "flex-wrap",
 			"description": "Specifies whether the flexible items should wrap or not"
 		},
 		{
-			"code": "justify-content"
+			"code": "justify-content",
 			"description": "Specifies the alignment between the items inside a flexible container when the items do not use all available space"
 		},
 		{
-			"code": "order"
+			"code": "order",
 			"description": "Sets the order of the flexible item, relative to the rest"
 		},
 		{
-			"code": "hanging-punctuation"
+			"code": "hanging-punctuation",
 			"description": "Specifies whether a punctuation character may be placed outside the line box"
 		},
 		{
-			"code": "hyphens"
+			"code": "hyphens",
 			"description": "Sets how to split words to improve the layout of paragraphs"
 		},
 		{
-			"code": "letter-spacing"
+			"code": "letter-spacing",
 			"description": "Increases or decreases the space between characters in a text"
 		},
 		{
-			"code": "line-break"
+			"code": "line-break",
 			"description": "Specifies how/if to break lines"
 		},
 		{
-			"code": "line-height"
+			"code": "line-height",
 			"description": "Sets the line height"
 		},
 		{
-			"code": "overflow-wrap"
+			"code": "overflow-wrap",
 			"description": "Specifies whether or not the browser may break lines within words in order to prevent overflow (when a string is too long to fit its containing box)"
 		},
 		{
-			"code": "tab-size"
+			"code": "tab-size",
 			"description": "Specifies the length of the tab-character"
 		},
 		{
-			"code": "text-align"
+			"code": "text-align",
 			"description": "Specifies the horizontal alignment of text"
 		},
 		{
-			"code": "text-align-last"
+			"code": "text-align-last",
 			"description": "Describes how the last line of a block or a line right before a forced line break is aligned when text-align is \"justify\""
 		},
 		{
-			"code": "text-combine-upright"
+			"code": "text-combine-upright",
 			"description": "Specifies the combination of multiple characters into the space of a single character"
 		},
 		{
-			"code": "text-indent"
+			"code": "text-indent",
 			"description": "Specifies the indentation of the first line in a text-block"
 		},
 		{
-			"code": "text-justify"
+			"code": "text-justify",
 			"description": "Specifies the justification method used when text-align is \"justify\""
 		},
 		{
-			"code": "text-transform"
+			"code": "text-transform",
 			"description": "Controls the capitalization of text"
 		},
 		{
-			"code": "white-space"
+			"code": "white-space",
 			"description": "Specifies how white-space inside an element is handled"
 		},
 		{
-			"code": "word-break"
+			"code": "word-break",
 			"description": "Specifies line breaking rules for non-CJK scripts"
 		},
 		{
-			"code": "word-spacing"
+			"code": "word-spacing",
 			"description": "Increases or decreases the space between words in a text"
 		},
 		{
-			"code": "word-wrap"
+			"code": "word-wrap",
 			"description": "Allows long, unbreakable words to be broken and wrap to the next line"
 		},
 		{
-			"code": "text-decoration"
+			"code": "text-decoration",
 			"description": "Specifies the decoration added to text"
 		},
 		{
-			"code": "text-decoration-color"
+			"code": "text-decoration-color",
 			"description": "Specifies the color of the text-decoration"
 		},
 		{
-			"code": "text-decoration-line"
+			"code": "text-decoration-line",
 			"description": "Specifies the type of line in a text-decoration"
 		},
 		{
-			"code": "text-decoration-style"
+			"code": "text-decoration-style",
 			"description": "Specifies the style of the line in a text decoration"
 		},
 		{
-			"code": "text-shadow"
+			"code": "text-shadow",
 			"description": "Adds shadow to text"
 		},
 		{
-			"code": "text-underline-position"
+			"code": "text-underline-position",
 			"description": "Specifies the position of the underline which is set using the text-decoration property"
 		},
 		{
-			"code": "@font-face"
+			"code": "@font-face",
 			"description": "A rule that allows websites to download and use fonts other than the \"web-safe\" fonts"
 		},
 		{
-			"code": "@font-feature-values"
+			"code": "@font-feature-values",
 			"description": "Allows authors to use a common name in font-variant-alternate for feature activated differently in OpenType"
 		},
 		{
-			"code": "font"
+			"code": "font",
 			"description": "Sets all the font properties in one declaration"
 		},
 		{
-			"code": "font-family"
+			"code": "font-family",
 			"description": "Specifies the font family for text"
 		},
 		{
-			"code": "font-feature-settings"
+			"code": "font-feature-settings",
 			"description": "Allows control over advanced typographic features in OpenType fonts"
 		},
 		{
-			"code": "font-kerning"
+			"code": "font-kerning",
 			"description": "Controls the usage of the kerning information (how letters are spaced)"
 		},
 		{
-			"code": "font-language-override"
+			"code": "font-language-override",
 			"description": "Controls the usage of language-specific glyphs in a typeface"
 		},
 		{
-			"code": "font-size"
+			"code": "font-size",
 			"description": "Specifies the font size of text"
 		},
 		{
-			"code": "font-size-adjust"
+			"code": "font-size-adjust",
 			"description": "Preserves the readability of text when font fallback occurs"
 		},
 		{
-			"code": "font-stretch"
+			"code": "font-stretch",
 			"description": "Selects a normal, condensed, or expanded face from a font family"
 		},
 		{
-			"code": "font-style"
+			"code": "font-style",
 			"description": "Specifies the font style for text"
 		},
 		{
-			"code": "font-synthesis"
+			"code": "font-synthesis",
 			"description": "Controls which missing typefaces (bold or italic) may be synthesized by the browser"
 		},
 		{
-			"code": "font-variant"
+			"code": "font-variant",
 			"description": "Specifies whether or not a text should be displayed in a small-caps font"
 		},
 		{
-			"code": "font-variant-alternates"
+			"code": "font-variant-alternates",
 			"description": "Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values"
 		},
 		{
-			"code": "font-variant-caps"
+			"code": "font-variant-caps",
 			"description": "Controls the usage of alternate glyphs for capital letters"
 		},
 		{
-			"code": "font-variant-east-asian"
+			"code": "font-variant-east-asian",
 			"description": "Controls the usage of alternate glyphs for East Asian scripts (e.g Japanese and Chinese)"
 		},
 		{
-			"code": "font-variant-ligatures"
+			"code": "font-variant-ligatures",
 			"description": "Controls which ligatures and contextual forms are used in textual content of the elements it applies to"
 		},
 		{
-			"code": "font-variant-numeric"
+			"code": "font-variant-numeric",
 			"description": "Controls the usage of alternate glyphs for numbers, fractions, and ordinal markers"
 		},
 		{
-			"code": "font-variant-position"
+			"code": "font-variant-position",
 			"description": "Controls the usage of alternate glyphs of smaller size positioned as superscript or subscript regarding the baseline of the font"
 		},
 		{
-			"code": "font-weight"
+			"code": "font-weight",
 			"description": "Specifies the weight of a font"
 		},
 		{
-			"code": "direction"
+			"code": "direction",
 			"description": "Specifies the text direction/writing direction"
 		},
 		{
-			"code": "text-orientation"
+			"code": "text-orientation",
 			"description": "Defines the orientation of the text in a line"
 		},
 		{
-			"code": "text-combine-upright"
+			"code": "text-combine-upright",
 			"description": "Specifies the combination of multiple characters into the space of a single character"
 		},
 		{
-			"code": "uni"code"-bidi"
+			"code": "uni"code"-bidi",
 			"description": "Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document"
 		},
 		{
-			"code": "user-select"
+			"code": "user-select",
 			"description": "Specifies whether the text of an element can be selected"
 		},
 		{
-			"code": "writing-mode"
+			"code": "writing-mode",
 			"description": ""
 		},
 		{
-			"code": "border-collapse"
+			"code": "border-collapse",
 			"description": "Specifies whether or not table borders should be collapsed"
 		},
 		{
-			"code": "border-spacing"
+			"code": "border-spacing",
 			"description": "Specifies the distance between the borders of adjacent cells"
 		},
 		{
-			"code": "caption-side"
+			"code": "caption-side",
 			"description": "Specifies the placement of a table caption"
 		},
 		{
-			"code": "empty-cells"
+			"code": "empty-cells",
 			"description": "Specifies whether or not to display borders and background on empty cells in a table"
 		},
 		{
-			"code": "table-layout"
+			"code": "table-layout",
 			"description": "Sets the layout algorithm to be used for a table"
 		},
 		{
-			"code": "counter-increment"
+			"code": "counter-increment",
 			"description": "Increments one or more counters"
 		},
 		{
-			"code": "counter-reset"
+			"code": "counter-reset",
 			"description": "Creates or resets one or more counters"
 		},
 		{
-			"code": "list-style"
+			"code": "list-style",
 			"description": "Sets all the properties for a list in one declaration"
 		},
 		{
-			"code": "list-style-image"
+			"code": "list-style-image",
 			"description": "Specifies an image as the list-item marker"
 		},
 		{
-			"code": "list-style-position"
+			"code": "list-style-position",
 			"description": "Specifies if the list-item markers should appear inside or outside the content flow"
 		},
 		{
-			"code": "list-style-type"
+			"code": "list-style-type",
 			"description": "Specifies the type of list-item marker"
 		},
 		{
-			"code": "@keyframes"
+			"code": "@keyframes",
 			"description": "Specifies the animation "code""
 		},
 		{
-			"code": "animation"
+			"code": "animation",
 			"description": "A shorthand property for all the animation properties (except animation-play-state and animation-fill-mode)"
 		},
 		{
-			"code": "animation-delay"
+			"code": "animation-delay",
 			"description": "Specifies a delay for the start of an animation"
 		},
 		{
-			"code": "animation-direction"
+			"code": "animation-direction",
 			"description": "Specifies whether or not the animation should play in reverse on alternate cycles"
 		},
 		{
-			"code": "animation-duration"
+			"code": "animation-duration",
 			"description": "Specifies how many seconds or milliseconds an animation takes to complete one cycle"
 		},
 		{
-			"code": "animation-fill-mode"
+			"code": "animation-fill-mode",
 			"description": "Specifies a style for the element when the animation is not playing (when it is finished, or when it has a delay)"
 		},
 		{
-			"code": "animation-iteration-count"
+			"code": "animation-iteration-count",
 			"description": "Specifies the number of times an animation should be played"
 		},
 		{
-			"code": "animation-name"
+			"code": "animation-name",
 			"description": "Specifies the name of the @keyframes animation"
 		},
 		{
-			"code": "animation-play-state"
+			"code": "animation-play-state",
 			"description": "Specifies whether the animation is running or paused"
 		},
 		{
-			"code": "animation-timing-function"
+			"code": "animation-timing-function",
 			"description": "Specifies the speed curve of an animation"
 		},
 		{
-			"code": "backface-visibility"
+			"code": "backface-visibility",
 			"description": "Defines whether or not an element should be visible when not facing the screen"
 		},
 		{
-			"code": "perspective"
+			"code": "perspective",
 			"description": "Specifies the perspective on how 3D elements are viewed"
 		},
 		{
-			"code": "perspective-origin"
+			"code": "perspective-origin",
 			"description": "Specifies the bottom position of 3D elements"
 		},
 		{
-			"code": "transform"
+			"code": "transform",
 			"description": "Applies a 2D or 3D transformation to an element"
 		},
 		{
-			"code": "transform-origin"
+			"code": "transform-origin",
 			"description": "Allows you to change the position on transformed elements"
 		},
 		{
-			"code": "transform-style"
+			"code": "transform-style",
 			"description": "Specifies how nested elements are rendered in 3D space"
 		},
 		{
-			"code": "transition"
+			"code": "transition",
 			"description": "A shorthand property for setting the four transition properties"
 		},
 		{
-			"code": "transition-property"
+			"code": "transition-property",
 			"description": "Specifies the name of the CSS property the transition effect is for"
 		},
 		{
-			"code": "transition-duration"
+			"code": "transition-duration",
 			"description": "Specifies how many seconds or milliseconds a transition effect takes to complete"
 		},
 		{
-			"code": "transition-timing-function"
+			"code": "transition-timing-function",
 			"description": "Specifies the speed curve of the transition effect"
 		},
 		{
-			"code": "transition-delay"
+			"code": "transition-delay",
 			"description": "Specifies when the transition effect will start"
 		},
 		{
-			"code": "box-sizing"
+			"code": "box-sizing",
 			"description": "Tells the browser what the sizing properties (width and height) should include"
 		},
 		{
-			"code": "content"
+			"code": "content",
 			"description": "Used with the :before and :after pseudo-elements, to insert generated content"
 		},
 		{
-			"code": "cursor"
+			"code": "cursor",
 			"description": "Specifies the type of cursor to be displayed"
 		},
 		{
-			"code": "ime-mode"
+			"code": "ime-mode",
 			"description": "Controls the state of the input method editor for text fields"
 		},
 		{
-			"code": "nav-down"
+			"code": "nav-down",
 			"description": "Specifies where to navigate when using the arrow-down navigation key"
 		},
 		{
-			"code": "nav-index"
+			"code": "nav-index",
 			"description": "Specifies the tabbing order for an element"
 		},
 		{
-			"code": "nav-left"
+			"code": "nav-left",
 			"description": "Specifies where to navigate when using the arrow-left navigation key"
 		},
 		{
-			"code": "nav-right"
+			"code": "nav-right",
 			"description": "Specifies where to navigate when using the arrow-right navigation key"
 		},
 		{
-			"code": "nav-up"
+			"code": "nav-up",
 			"description": "Specifies where to navigate when using the arrow-up navigation key"
 		},
 		{
-			"code": "outline"
+			"code": "outline",
 			"description": "Sets all the outline properties in one declaration"
 		},
 		{
-			"code": "outline-color"
+			"code": "outline-color",
 			"description": "Sets the color of an outline"
 		},
 		{
-			"code": "outline-offset"
+			"code": "outline-offset",
 			"description": "Offsets an outline, and draws it beyond the border edge"
 		},
 		{
-			"code": "outline-style"
+			"code": "outline-style",
 			"description": "Sets the style of an outline"
 		},
 		{
-			"code": "outline-width"
+			"code": "outline-width",
 			"description": "Sets the width of an outline"
 		},
 		{
-			"code": "resize"
+			"code": "resize",
 			"description": "Specifies whether or not an element is resizable by the user"
 		},
 		{
-			"code": "text-overflow"
+			"code": "text-overflow",
 			"description": "Specifies what should happen when text overflows the containing element"
 		},
 		{
-			"code": "break-after"
+			"code": "break-after",
 			"description": "Specifies the page-, column-, or region-break behavior after the generated box"
 		},
 		{
-			"code": "break-before"
+			"code": "break-before",
 			"description": "Specifies the page-, column-, or region-break behavior before the generated box"
 		},
 		{
-			"code": "break-inside"
+			"code": "break-inside",
 			"description": "Specifies the page-, column-, or region-break behavior inside the generated box"
 		},
 		{
-			"code": "column-count"
+			"code": "column-count",
 			"description": "Specifies the number of columns an element should be divided into"
 		},
 		{
-			"code": "column-fill"
+			"code": "column-fill",
 			"description": "Specifies how to fill columns"
 		},
 		{
-			"code": "column-gap"
+			"code": "column-gap",
 			"description": "Specifies the gap between the columns"
 		},
 		{
-			"code": "column-rule"
+			"code": "column-rule",
 			"description": "A shorthand property for setting all the column-rule-* properties"
 		},
 		{
-			"code": "column-rule-color"
+			"code": "column-rule-color",
 			"description": "Specifies the color of the rule between columns"
 		},
 		{
-			"code": "column-rule-style"
+			"code": "column-rule-style",
 			"description": "Specifies the style of the rule between columns"
 		},
 		{
-			"code": "column-rule-width"
+			"code": "column-rule-width",
 			"description": "Specifies the width of the rule between columns"
 		},
 		{
-			"code": "column-span"
+			"code": "column-span",
 			"description": "Specifies how many columns an element should span across"
 		},
 		{
-			"code": "column-width"
+			"code": "column-width",
 			"description": "Specifies the width of the columns"
 		},
 		{
-			"code": "columns"
+			"code": "columns",
 			"description": "A shorthand property for setting column-width and column-count"
 		},
 		{
-			"code": "widows"
+			"code": "widows",
 			"description": "Sets the minimum number of lines that must be left at the top of a page when a page break occurs inside an element"
 		},
 		{
-			"code": "orphans"
+			"code": "orphans",
 			"description": "Sets the minimum number of lines that must be left at the bottom of a page when a page break occurs inside an element"
 		},
 		{
-			"code": "page-break-after"
+			"code": "page-break-after",
 			"description": "Sets the page-breaking behavior after an element"
 		},
 		{
-			"code": "page-break-before"
+			"code": "page-break-before",
 			"description": "Sets the page-breaking behavior before an element"
 		},
 		{
-			"code": "page-break-inside"
+			"code": "page-break-inside",
 			"description": "Sets the page-breaking behavior inside an element"
 		},
 		{
-			"code": "marks"
+			"code": "marks",
 			"description": "Adds crop and/or cross marks to the document"
 		},
 		{
-			"code": "quotes"
+			"code": "quotes",
 			"description": "Sets the type of quotation marks for embedded quotations"
 		},
 		{
-			"code": "filter"
+			"code": "filter",
 			"description": "Defines effects (e.g. blurring or color shifting) on an element before the element is displayed"
 		},
 		{
-			"code": "image-orientation"
+			"code": "image-orientation",
 			"description": "Specifies a rotation in the right or clockwise direction that a user agent applies to an image (This property is likely going to be deprecated and its functionality moved to HTML)"
 		},
 		{
-			"code": "image-rendering"
+			"code": "image-rendering",
 			"description": "Gives a hint to the browser about what aspects of an image are most important to preserve when the image is scaled"
 		},
 		{
-			"code": "image-resolution"
+			"code": "image-resolution",
 			"description": "Specifies the intrinsic resolution of all raster images used in/on the element"
 		},
 		{
-			"code": "object-fit"
+			"code": "object-fit",
 			"description": "Specifies how the contents of a replaced element should be fitted to the box established by its used height and width"
 		},
 		{
-			"code": "object-position"
+			"code": "object-position",
 			"description": "Specifies the alignment of the replaced element inside its box"
 		},
 		{
-			"code": "mask"
+			"code": "mask",
 			"description": ""
 		},
 		{
-			"code": "mask-type"
+			"code": "mask-type",
 			"description": ""
 		},
 		{
-			"code": "mark"
+			"code": "mark",
 			"description": "A shorthand property for setting the mark-before and mark-after properties"
 		},
 		{
-			"code": "mark-after"
+			"code": "mark-after",
 			"description": "Allows named markers to be attached to the audio stream"
 		},
 		{
-			"code": "mark-before"
+			"code": "mark-before",
 			"description": "Allows named markers to be attached to the audio stream"
 		},
 		{
-			"code": "phonemes"
+			"code": "phonemes",
 			"description": "Specifies a phonetic pronunciation for the text contained by the corresponding element"
 		},
 		{
-			"code": "rest"
+			"code": "rest",
 			"description": "A shorthand property for setting the rest-before and rest-after properties"
 		},
 		{
-			"code": "rest-after"
+			"code": "rest-after",
 			"description": "Specifies a rest or prosodic boundary to be observed after speaking an element's content"
 		},
 		{
-			"code": "rest-before"
+			"code": "rest-before",
 			"description": "Specifies a rest or prosodic boundary to be observed before speaking an element's content"
 		},
 		{
-			"code": "voice-balance"
+			"code": "voice-balance",
 			"description": "Specifies the balance between left and right channels"
 		},
 		{
-			"code": "voice-duration"
+			"code": "voice-duration",
 			"description": "Specifies how long it should take to render the selected element's content"
 		},
 		{
-			"code": "voice-pitch"
+			"code": "voice-pitch",
 			"description": "Specifies the average pitch (a frequency) of the speaking voice"
 		},
 		{
-			"code": "voice-pitch-range"
+			"code": "voice-pitch-range",
 			"description": "Specifies variation in average pitch"
 		},
 		{
-			"code": "voice-rate"
+			"code": "voice-rate",
 			"description": "Controls the speaking rate"
 		},
 		{
-			"code": "voice-stress"
+			"code": "voice-stress",
 			"description": "Indicates the strength of emphasis to be applied"
 		},
 		{
-			"code": "voice-volume"
+			"code": "voice-volume",
 			"description": "Refers to the amplitude of the waveform output by the speech synthesises"
 		},
 		{
-			"code": "marquee-direction"
+			"code": "marquee-direction",
 			"description": "Sets the direction of the moving content"
 		},
 		{
-			"code": "marquee-play-count"
+			"code": "marquee-play-count",
 			"description": "Sets how many times the content move"
 		},
 		{
-			"code": "marquee-speed"
+			"code": "marquee-speed",
 			"description": "Sets how fast the content scrolls"
 		},
 		{
-			"code": "marquee-style"
+			"code": "marquee-style",
 			"description": "Sets the style of the moving content"
 		}
 	]
