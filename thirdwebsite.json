@@ -537,7 +537,7 @@
 			"description": "Specifies the combination of multiple characters into the space of a single character"
 		},
 		{
-			"code": "uni"code"-bidi",
+			"code": "uni\"code\"-bidi",
 			"description": "Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document"
 		},
 		{
@@ -594,7 +594,7 @@
 		},
 		{
 			"code": "@keyframes",
-			"description": "Specifies the animation "code""
+			"description": "Specifies the animation \"code\""
 		},
 		{
 			"code": "animation",
