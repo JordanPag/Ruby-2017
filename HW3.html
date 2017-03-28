@@ -22,7 +22,7 @@
 			</tr>
 		</table>
 		<script>
-			$.getJSON("{'data':['code':'something','result':'something else']}", function(data) {
+			$.getJSON('firstwebsite.json', function(data) {
 				for(var i=0; i<data.data.length;i++){
 					$.each(data.data[i], function(key, val) {
 						if(key=="code"){
