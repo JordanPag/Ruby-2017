@@ -27,10 +27,11 @@
 					$.each(data.data[i], function(key, val) {
 						if(key=="code"){
 							console.log(val);
-							let tblRow = `<tr><td>${val}</td><td>`;
+							var tblRow = `<tr><td>${val}</td><td>`;
 						} else {
 							console.log(val);
 							tblRow += val + "</td></tr>";
+							console.log(tblRow);
 							$("#md").append(tblRow);
 						}
 					});
