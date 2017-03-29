@@ -24,10 +24,11 @@
 		<script>
 			$.getJSON('firstwebsite.json', function(data) {
 				for(var i=0; i<data.data.length;i++){
+					var tblRow;
 					$.each(data.data[i], function(key, val) {
 						if(key=="code"){
 							console.log(val);
-							var tblRow = `<tr><td>${val}</td><td>`;
+							tblRow = `<tr><td>${val}</td><td>`;
 						} else {
 							console.log(val);
 							tblRow += val + "</td></tr>";
@@ -39,13 +40,15 @@
 			});
 			$.getJSON('secondwebsite.json', function(data) {
 				for(var i=0; i<data.data.length;i++){
+					var tblRow;
 					$.each(data.data[i], function(key, val) {
 						if(key=="code"){
 							console.log(val);
-							var tblRow = `<tr><td>${val}</td><td>`;
+							tblRow = `<tr><td>${val}</td><td>`;
 						} else {
 							console.log(val);
 							tblRow += val + "</td></tr>";
+							console.log(tblRow);
 							$("#html").append(tblRow);
 						}
 					});
@@ -53,13 +56,15 @@
 			});
 			$.getJSON('thirdwebsite.json', function(data) {
 				for(var i=0; i<data.data.length;i++){
+					var tblRow;
 					$.each(data.data[i], function(key, val) {
 						if(key=="code"){
 							console.log(val);
-							var tblRow = `<tr><td>${val}</td><td>`;
+							tblRow = `<tr><td>${val}</td><td>`;
 						} else {
 							console.log(val);
 							tblRow += val + "</td></tr>";
+							console.log(tblRow);
 							$("#css").append(tblRow);
 						}
 					});
