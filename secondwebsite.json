@@ -1,479 +1,479 @@
 {
 	"data": [
 		{
-			"code": "<!--...-->",
+			"code": "&lt;!--...--&gt;",
 			"description": "Defines a comment"
 		},
 		{
-			"code": "<!DOCTYPE> ",
+			"code": "&lt;!DOCTYPE&gt; ",
 			"description": "Defines the document type"
 		},
 		{
-			"code": "<a>",
+			"code": "&lt;a&gt;",
 			"description": "Defines a hyperlink"
 		},
 		{
-			"code": "<abbr>",
+			"code": "&lt;abbr&gt;",
 			"description": "Defines an abbreviation or an acronym"
 		},
 		{
-			"code": "<acronym>",
+			"code": "&lt;acronym&gt;",
 			"description": "Defines an acronym"
 		},
 		{
-			"code": "<address>",
+			"code": "&lt;address&gt;",
 			"description": "Defines contact information for the author/owner of a document"
 		},
 		{
-			"code": "<applet>",
+			"code": "&lt;applet&gt;",
 			"description": "Defines an embedded applet"
 		},
 		{
-			"code": "<area>",
+			"code": "&lt;area&gt;",
 			"description": "Defines an area inside an image-map"
 		},
 		{
-			"code": "<article>",
+			"code": "&lt;article&gt;",
 			"description": "Defines an article"
 		},
 		{
-			"code": "<aside>",
+			"code": "&lt;aside&gt;",
 			"description": "Defines content aside from the page content"
 		},
 		{
-			"code": "<audio>",
+			"code": "&lt;audio&gt;",
 			"description": "Defines sound content"
 		},
 		{
-			"code": "<b>",
+			"code": "&lt;b&gt;",
 			"description": "Defines bold text"
 		},
 		{
-			"code": "<base>",
+			"code": "&lt;base&gt;",
 			"description": "Specifies the base URL/target for all relative URLs in a document"
 		},
 		{
-			"code": "<basefont>",
+			"code": "&lt;basefont&gt;",
 			"description": "Specifies a default color, size, and font for all text in a document"
 		},
 		{
-			"code": "<bdi>",
+			"code": "&lt;bdi&gt;",
 			"description": "Isolates a part of text that might be formatted in a different direction from other text outside it"
 		},
 		{
-			"code": "<bdo>",
+			"code": "&lt;bdo&gt;",
 			"description": "Overrides the current text direction"
 		},
 		{
-			"code": "<big>",
+			"code": "&lt;big&gt;",
 			"description": "Defines big text"
 		},
 		{
-			"code": "<blockquote>",
+			"code": "&lt;blockquote&gt;",
 			"description": "Defines a section that is quoted from another source"
 		},
 		{
-			"code": "<body>",
+			"code": "&lt;body&gt;",
 			"description": "Defines the document's body"
 		},
 		{
-			"code": "<br>",
+			"code": "&lt;br&gt;",
 			"description": "Defines a single line break"
 		},
 		{
-			"code": "<button>",
+			"code": "&lt;button&gt;",
 			"description": "Defines a clickable button"
 		},
 		{
-			"code": "<canvas>",
+			"code": "&lt;canvas&gt;",
 			"description": "Used to draw graphics, on the fly, via scripting (usually JavaScript)"
 		},
 		{
-			"code": "<caption>",
+			"code": "&lt;caption&gt;",
 			"description": "Defines a table caption"
 		},
 		{
-			"code": "<center>",
+			"code": "&lt;center&gt;",
 			"description": "Defines centered text"
 		},
 		{
-			"code": "<cite>",
+			"code": "&lt;cite&gt;",
 			"description": "Defines the title of a work"
 		},
 		{
-			"code": "<code>",
+			"code": "&lt;code&gt;",
 			"description": "Defines a piece of computer code"
 		},
 		{
-			"code": "<col>",
-			"description": "Specifies column properties for each column within a <colgroup> element "
+			"code": "&lt;col&gt;",
+			"description": "Specifies column properties for each column within a &lt;colgroup&gt; element "
 		},
 		{
-			"code": "<colgroup>",
+			"code": "&lt;colgroup&gt;",
 			"description": "Specifies a group of one or more columns in a table for formatting"
 		},
 		{
-			"code": "<datalist>",
+			"code": "&lt;datalist&gt;",
 			"description": "Specifies a list of pre-defined options for input controls"
 		},
 		{
-			"code": "<dd>",
+			"code": "&lt;dd&gt;",
 			"description": "Defines a description/value of a term in a description list"
 		},
 		{
-			"code": "<del>",
+			"code": "&lt;del&gt;",
 			"description": "Defines text that has been deleted from a document"
 		},
 		{
-			"code": "<details>",
+			"code": "&lt;details&gt;",
 			"description": "Defines additional details that the user can view or hide"
 		},
 		{
-			"code": "<dfn>",
+			"code": "&lt;dfn&gt;",
 			"description": "Represents the defining instance of a term"
 		},
 		{
-			"code": "<dialog>",
+			"code": "&lt;dialog&gt;",
 			"description": "Defines a dialog box or window"
 		},
 		{
-			"code": "<dir>",
+			"code": "&lt;dir&gt;",
 			"description": "Defines a directory list"
 		},
 		{
-			"code": "<div>",
+			"code": "&lt;div&gt;",
 			"description": "Defines a section in a document"
 		},
 		{
-			"code": "<dl>",
+			"code": "&lt;dl&gt;",
 			"description": "Defines a description list"
 		},
 		{
-			"code": "<dt>",
+			"code": "&lt;dt&gt;",
 			"description": "Defines a term/name in a description list"
 		},
 		{
-			"code": "<em>",
+			"code": "&lt;em&gt;",
 			"description": "Defines emphasized text "
 		},
 		{
-			"code": "<embed>",
+			"code": "&lt;embed&gt;",
 			"description": "Defines a container for an external (non-HTML) application"
 		},
 		{
-			"code": "<fieldset>",
+			"code": "&lt;fieldset&gt;",
 			"description": "Groups related elements in a form"
 		},
 		{
-			"code": "<figcaption>",
-			"description": "Defines a caption for a <figure> element"
+			"code": "&lt;figcaption&gt;",
+			"description": "Defines a caption for a &lt;figure&gt; element"
 		},
 		{
-			"code": "<figure>",
+			"code": "&lt;figure&gt;",
 			"description": "Specifies self-contained content"
 		},
 		{
-			"code": "<font>",
+			"code": "&lt;font&gt;",
 			"description": "Defines font, color, and size for text"
 		},
 		{
-			"code": "<footer>",
+			"code": "&lt;footer&gt;",
 			"description": "Defines a footer for a document or section"
 		},
 		{
-			"code": "<form>",
+			"code": "&lt;form&gt;",
 			"description": "Defines an HTML form for user input"
 		},
 		{
-			"code": "<frame>",
+			"code": "&lt;frame&gt;",
 			"description": "Defines a window (a frame) in a frameset"
 		},
 		{
-			"code": "<frameset>",
+			"code": "&lt;frameset&gt;",
 			"description": "Defines a set of frames"
 		},
 		{
-			"code": "<h1> to <h6>",
+			"code": "&lt;h1&gt; to &lt;h6&gt;",
 			"description": "Defines HTML headings"
 		},
 		{
-			"code": "<head>",
+			"code": "&lt;head&gt;",
 			"description": "Defines information about the document"
 		},
 		{
-			"code": "<header>",
+			"code": "&lt;header&gt;",
 			"description": "Defines a header for a document or section"
 		},
 		{
-			"code": "<hr>",
+			"code": "&lt;hr&gt;",
 			"description": "Defines a thematic change in the content"
 		},
 		{
-			"code": "<html>",
+			"code": "&lt;html&gt;",
 			"description": "Defines the root of an HTML document"
 		},
 		{
-			"code": "<i>",
+			"code": "&lt;i&gt;",
 			"description": "Defines a part of text in an alternate voice or mood"
 		},
 		{
-			"code": "<iframe>",
+			"code": "&lt;iframe&gt;",
 			"description": "Defines an inline frame"
 		},
 		{
-			"code": "<img>",
+			"code": "&lt;img&gt;",
 			"description": "Defines an image"
 		},
 		{
-			"code": "<input>",
+			"code": "&lt;input&gt;",
 			"description": "Defines an input control"
 		},
 		{
-			"code": "<ins>",
+			"code": "&lt;ins&gt;",
 			"description": "Defines a text that has been inserted into a document"
 		},
 		{
-			"code": "<kbd>",
+			"code": "&lt;kbd&gt;",
 			"description": "Defines keyboard input"
 		},
 		{
-			"code": "<keygen>",
+			"code": "&lt;keygen&gt;",
 			"description": "Defines a key-pair generator field (for forms)"
 		},
 		{
-			"code": "<label>",
-			"description": "Defines a label for an <input> element"
+			"code": "&lt;label&gt;",
+			"description": "Defines a label for an &lt;input&gt; element"
 		},
 		{
-			"code": "<legend>",
-			"description": "Defines a caption for a <fieldset> element"
+			"code": "&lt;legend&gt;",
+			"description": "Defines a caption for a &lt;fieldset&gt; element"
 		},
 		{
-			"code": "<li>",
+			"code": "&lt;li&gt;",
 			"description": "Defines a list item"
 		},
 		{
-			"code": "<link>",
+			"code": "&lt;link&gt;",
 			"description": "Defines the relationship between a document and an external resource (most used to link to style sheets)"
 		},
 		{
-			"code": "<main>",
+			"code": "&lt;main&gt;",
 			"description": "Specifies the main content of a document"
 		},
 		{
-			"code": "<map>",
+			"code": "&lt;map&gt;",
 			"description": "Defines a client-side image-map"
 		},
 		{
-			"code": "<mark>",
+			"code": "&lt;mark&gt;",
 			"description": "Defines marked/highlighted text"
 		},
 		{
-			"code": "<menu>",
+			"code": "&lt;menu&gt;",
 			"description": "Defines a list/menu of commands"
 		},
 		{
-			"code": "<menuitem>",
+			"code": "&lt;menuitem&gt;",
 			"description": "Defines a command/menu item that the user can invoke from a popup menu"
 		},
 		{
-			"code": "<meta>",
+			"code": "&lt;meta&gt;",
 			"description": "Defines metadata about an HTML document"
 		},
 		{
-			"code": "<meter>",
+			"code": "&lt;meter&gt;",
 			"description": "Defines a scalar measurement within a known range (a gauge)"
 		},
 		{
-			"code": "<nav>",
+			"code": "&lt;nav&gt;",
 			"description": "Defines navigation links"
 		},
 		{
-			"code": "<noframes>",
+			"code": "&lt;noframes&gt;",
 			"description": "Defines an alternate content for users that do not support frames"
 		},
 		{
-			"code": "<noscript>",
+			"code": "&lt;noscript&gt;",
 			"description": "Defines an alternate content for users that do not support client-side scripts"
 		},
 		{
-			"code": "<object>",
+			"code": "&lt;object&gt;",
 			"description": "Defines an embedded object"
 		},
 		{
-			"code": "<ol>",
+			"code": "&lt;ol&gt;",
 			"description": "Defines an ordered list"
 		},
 		{
-			"code": "<optgroup>",
+			"code": "&lt;optgroup&gt;",
 			"description": "Defines a group of related options in a drop-down list"
 		},
 		{
-			"code": "<option>",
+			"code": "&lt;option&gt;",
 			"description": "Defines an option in a drop-down list"
 		},
 		{
-			"code": "<output>",
+			"code": "&lt;output&gt;",
 			"description": "Defines the result of a calculation"
 		},
 		{
-			"code": "<p>",
+			"code": "&lt;p&gt;",
 			"description": "Defines a paragraph"
 		},
 		{
-			"code": "<param>",
+			"code": "&lt;param&gt;",
 			"description": "Defines a parameter for an object"
 		},
 		{
-			"code": "<picture>",
+			"code": "&lt;picture&gt;",
 			"description": "Defines a container for multiple image resources"
 		},
 		{
-			"code": "<pre>",
+			"code": "&lt;pre&gt;",
 			"description": "Defines preformatted text"
 		},
 		{
-			"code": "<progress>",
+			"code": "&lt;progress&gt;",
 			"description": "Represents the progress of a task"
 		},
 		{
-			"code": "<q>",
+			"code": "&lt;q&gt;",
 			"description": "Defines a short quotation"
 		},
 		{
-			"code": "<rp>",
+			"code": "&lt;rp&gt;",
 			"description": "Defines what to show in browsers that do not support ruby annotations"
 		},
 		{
-			"code": "<rt>",
+			"code": "&lt;rt&gt;",
 			"description": "Defines an explanation/pronunciation of characters (for East Asian typography)"
 		},
 		{
-			"code": "<ruby>",
+			"code": "&lt;ruby&gt;",
 			"description": "Defines a ruby annotation (for East Asian typography)"
 		},
 		{
-			"code": "<s>",
+			"code": "&lt;s&gt;",
 			"description": "Defines text that is no longer correct"
 		},
 		{
-			"code": "<samp>",
+			"code": "&lt;samp&gt;",
 			"description": "Defines sample output from a computer program"
 		},
 		{
-			"code": "<script>",
+			"code": "&lt;script&gt;",
 			"description": "Defines a client-side script"
 		},
 		{
-			"code": "<section>",
+			"code": "&lt;section&gt;",
 			"description": "Defines a section in a document"
 		},
 		{
-			"code": "<select>",
+			"code": "&lt;select&gt;",
 			"description": "Defines a drop-down list"
 		},
 		{
-			"code": "<small>",
+			"code": "&lt;small&gt;",
 			"description": "Defines smaller text"
 		},
 		{
-			"code": "<source>",
-			"description": "Defines multiple media resources for media elements (<video> and <audio>)"
+			"code": "&lt;source&gt;",
+			"description": "Defines multiple media resources for media elements (&lt;video&gt; and &lt;audio&gt;)"
 		},
 		{
-			"code": "<span>",
+			"code": "&lt;span&gt;",
 			"description": "Defines a section in a document"
 		},
 		{
-			"code": "<strike>",
+			"code": "&lt;strike&gt;",
 			"description": "Defines strikethrough text"
 		},
 		{
-			"code": "<strong>",
+			"code": "&lt;strong&gt;",
 			"description": "Defines important text"
 		},
 		{
-			"code": "<style>",
+			"code": "&lt;style&gt;",
 			"description": "Defines style information for a document"
 		},
 		{
-			"code": "<sub>",
+			"code": "&lt;sub&gt;",
 			"description": "Defines subscripted text"
 		},
 		{
-			"code": "<summary>",
-			"description": "Defines a visible heading for a <details> element"
+			"code": "&lt;summary&gt;",
+			"description": "Defines a visible heading for a &lt;details&gt; element"
 		},
 		{
-			"code": "<sup>",
+			"code": "&lt;sup&gt;",
 			"description": "Defines superscripted text"
 		},
 		{
-			"code": "<table>",
+			"code": "&lt;table&gt;",
 			"description": "Defines a table"
 		},
 		{
-			"code": "<tbody>",
+			"code": "&lt;tbody&gt;",
 			"description": "Groups the body content in a table"
 		},
 		{
-			"code": "<td>",
+			"code": "&lt;td&gt;",
 			"description": "Defines a cell in a table"
 		},
 		{
-			"code": "<textarea>",
+			"code": "&lt;textarea&gt;",
 			"description": "Defines a multiline input control (text area)"
 		},
 		{
-			"code": "<tfoot>",
+			"code": "&lt;tfoot&gt;",
 			"description": "Groups the footer content in a table"
 		},
 		{
-			"code": "<th>",
+			"code": "&lt;th&gt;",
 			"description": "Defines a header cell in a table"
 		},
 		{
-			"code": "<thead>",
+			"code": "&lt;thead&gt;",
 			"description": "Groups the header content in a table"
 		},
 		{
-			"code": "<time>",
+			"code": "&lt;time&gt;",
 			"description": "Defines a date/time"
 		},
 		{
-			"code": "<title>",
+			"code": "&lt;title&gt;",
 			"description": "Defines a title for the document"
 		},
 		{
-			"code": "<tr>",
+			"code": "&lt;tr&gt;",
 			"description": "Defines a row in a table"
 		},
 		{
-			"code": "<track>",
-			"description": "Defines text tracks for media elements (<video> and <audio>)"
+			"code": "&lt;track&gt;",
+			"description": "Defines text tracks for media elements (&lt;video&gt; and &lt;audio&gt;)"
 		},
 		{
-			"code": "<tt>",
+			"code": "&lt;tt&gt;",
 			"description": "Defines teletype text"
 		},
 		{
-			"code": "<u>",
+			"code": "&lt;u&gt;",
 			"description": "Defines text that should be stylistically different from normal text"
 		},
 		{
-			"code": "<ul>",
+			"code": "&lt;ul&gt;",
 			"description": "Defines an unordered list"
 		},
 		{
-			"code": "<var>",
+			"code": "&lt;var&gt;",
 			"description": "Defines a variable"
 		},
 		{
-			"code": "<video>",
+			"code": "&lt;video&gt;",
 			"description": "Defines a video or movie"
 		},
 		{
-			"code": "<wbr>",
+			"code": "&lt;wbr&gt;",
 			"description": "Defines a possible line-break"
 		}
 	]
