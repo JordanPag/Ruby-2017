@@ -10,11 +10,11 @@
 		},
 		{
 			"code": "# Heading 1",
-			"result": "↵                            <h1 class=\"smaller-h1\">Heading 1</h1>↵                        "
+			"result": "<br><h1 class=\"smaller-h1\">Heading 1</h1><br>"
 		},
 		{
 			"code": "## Heading 2",
-			"result": "↵                            <h2 class=\"smaller-h2\">Heading 2</h2>↵                        "
+			"result": "<br><h2 class=\"smaller-h2\">Heading 2</h2><br>"
 		},
 		{
 			"code": "[Link](http://a.com)",
@@ -22,35 +22,35 @@
 		},
 		{
 			"code": "![Image](http://url/a.png)",
-			"result": "↵                            <img src=\"images/favicon.png\" width=\"36\" height=\"36\" alt=\"Markdown\">↵                        "
+			"result": "<br><img src=\"images/favicon.png\" width=\"36\" height=\"36\" alt=\"Markdown\"><br>"
 		},
 		{
 			"code": "> Blockquote",
-			"result": "↵                            <blockquote>Blockquote</blockquote>↵                        "
+			"result": "<br><blockquote>Blockquote</blockquote><br>"
 		},
 		{
-			"code": "A paragraph.↵↵A paragraph after 1 blank line.",
-			"result": "↵                            <p>A paragraph.</p>↵                            <p>A paragraph after 1 blank line.</p>↵                        "
+			"code": "A paragraph.<br><br>A paragraph after 1 blank line.",
+			"result": "<br><p>A paragraph.</p><br><p>A paragraph after 1 blank line.</p><br>"
 		},
 		{
-			"code": "* List↵* List↵* List↵↵",
-			"result": "↵                            <ul>↵                                <li>List</li>↵                                <li>List</li>↵                                <li>List</li>↵                            </ul>↵                        "
+			"code": "* List<br>* List<br>* List<br><br>",
+			"result": "<br><ul><br><li>List</li><br><li>List</li><br><li>List</li><br></ul><br>"
 		},
 		{
-			"code": "1. One↵2. Two↵3. Three↵↵",
-			"result": "↵                            <ol>↵                                <li>One</li>↵                                <li>Two</li>↵                                <li>Three</li>↵                            </ol>↵                        "
+			"code": "1. One<br>2. Two<br>3. Three<br><br>",
+			"result": "<br><ol><br><li>One</li><br><li>Two</li><br><li>Three</li><br></ol><br>"
 		},
 		{
-			"code": "Horizontal Rule↵↵---",
-			"result": "↵                            Horizontal Rule↵                            <hr class=\"custom-hr\">↵                        "
+			"code": "Horizontal Rule<br><br>---",
+			"result": "<br>Horizontal Rule<br><hr class=\"custom-hr\"><br>"
 		},
 		{
 			"code": "`Inline code` with backticks",
-			"result": "↵                            <code class=\"preformatted\">Inline code</code> with backticks↵                        "
+			"result": "<br><code class=\"preformatted\">Inline code</code> with backticks<br>"
 		},
 		{
-			"code": "```↵# code block↵print '3 backticks or'↵print 'indent 4 spaces'↵```",
-			"result": "↵                            <div class=\"code-block\">↵                                # code block↵                                <br> print '3 backticks or'↵                                <br> print 'indent 4 spaces'↵                            </div>↵                        "
+			"code": "```<br># code block<br>print '3 backticks or'<br>print 'indent 4 spaces'<br>```",
+			"result": "<br><div class=\"code-block\"><br># code block<br><br> print '3 backticks or'<br><br> print 'indent 4 spaces'<br></div><br>"
 		}
 	]
 }
